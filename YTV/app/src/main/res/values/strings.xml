@@ -1,0 +1,27 @@
+<resources>
+    // App name
+    <string name="app_name">Youtube Movies</string>
+
+    // String related with navigation drawer
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    // String related with some action in toolbar
+    <string name="action_settings">Settings</string>
+
+    // There are some string keys and values related with all movies menus
+    <string name="menu_home">Home</string>
+    <string name="menu_khmer_movies">Khmer Movies</string>
+    <string name="menu_thai_movies">Thai Movies</string>
+    <string name="menu_chinese_movies">Chinese Movies</string>
+    <string name="menu_hong_kong_movies">Hong Kong Movies</string>
+    <string name="menu_other_movies">Other</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_drama_movies">Drama Movies</string>
+    <string name="menu_funny_movies">Funny Movies</string>
+    <string name="menu_action_movies">Action Movies</string>
+    <string name="menu_old_movies">Old Movies</string>
+    <string name="menu_new_movies">New Movies</string>
+
+</resources>
